@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VYXSrN4sRjU=",
+  "success": true,
+  "projectFilePath": "/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/ExternalApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/Dmitry.Kazantsev/.nuget/packages/microsoft.build.tasks.git/8.0.0/microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "/Users/Dmitry.Kazantsev/.nuget/packages/microsoft.sourcelink.common/8.0.0/microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "/Users/Dmitry.Kazantsev/.nuget/packages/microsoft.sourcelink.github/8.0.0/microsoft.sourcelink.github.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
