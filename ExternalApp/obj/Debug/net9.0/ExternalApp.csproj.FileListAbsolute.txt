@@ -1,0 +1,15 @@
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/bin/Debug/net9.0/ExternalApp
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/bin/Debug/net9.0/ExternalApp.deps.json
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/bin/Debug/net9.0/ExternalApp.runtimeconfig.json
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/bin/Debug/net9.0/ExternalApp.dll
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/bin/Debug/net9.0/ExternalApp.pdb
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/ExternalApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/ExternalApp.AssemblyInfoInputs.cache
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/ExternalApp.AssemblyInfo.cs
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/ExternalApp.csproj.CoreCompileInputs.cache
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/ExternalApp.dll
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/refint/ExternalApp.dll
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/ExternalApp.pdb
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/ExternalApp.genruntimeconfig.cache
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/ref/ExternalApp.dll
+/Users/Dmitry.Kazantsev/RiderProjects/ExternalApp/ExternalApp/obj/Debug/net9.0/ExternalApp.sourcelink.json
